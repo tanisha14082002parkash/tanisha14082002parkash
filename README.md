@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanisha14082002parkash
 - 👀 I’m interested in dsa and webdevelopment
-- 🌱 I’m currently learning ml, backend.
+- 🌱 I’m currently learning ml, backend web development.
 - 💞️ I’m looking to collaborate on projects related to ML and WebDev.
 - 📫 How to reach me: email tanisha.parkash@gmail.com
 
